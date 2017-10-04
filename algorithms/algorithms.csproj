@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+<PropertyGroup>
+    <StartupObject>algorithms.Solution001</StartupObject>
+  </PropertyGroup>
+
+</Project>
