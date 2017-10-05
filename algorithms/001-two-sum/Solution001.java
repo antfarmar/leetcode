@@ -1,4 +1,4 @@
-class Solution {
+class Solution001 {
     
     // One-pass Hash Table
     public int[] twoSum(int[] nums, int target) {

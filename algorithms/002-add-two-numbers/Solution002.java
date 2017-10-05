@@ -7,7 +7,7 @@
  * }
  */
 
-class Solution {
+class Solution002 {
 
     public ListNode addTwoNumbers(ListNode L1, ListNode L2) {
         ListNode headNode = new ListNode(0);
