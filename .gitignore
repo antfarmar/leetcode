@@ -1,3 +1,6 @@
+# Java Classes
+*.class
+
 *.swp
 *.*~
 project.lock.json
