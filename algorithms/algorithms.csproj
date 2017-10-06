@@ -6,7 +6,7 @@
   </PropertyGroup>
 
 <PropertyGroup>
-    <StartupObject>algorithms.Solution003</StartupObject>
+    <StartupObject>algorithms.Solution004</StartupObject>
   </PropertyGroup>
 
 </Project>
